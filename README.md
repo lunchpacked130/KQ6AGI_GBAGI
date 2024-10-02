@@ -74,11 +74,15 @@ It's not only a love letter to the original Kings Quest VI, but also such an inc
 
 ### How do I use GBAGI to convert AGI games to GameBoy Advance rom?
 
-If you'd rather make your own rom, or convert some other AGI games from your collection, just follow this simple guide 
+If you'd rather make your own rom, or convert some other AGI games from your collection, just follow this simple guide.
+(Images are from a previous version, but the layout is identical.
 
 First you'll need the game files for the AGI game you want to port and GBAGI.
 For this guide I'm using KQ6AGI, but any AGI game should potentially work. 
 The procedure is identical for all AGI games
+
+> [!IMPORTANT]
+> GBAGI is Windows only (Sorry)
 
 **1) downloads and preparations**
 
@@ -101,6 +105,8 @@ The procedure is identical for all AGI games
 
 **2) Extracting and getting things ready.**
 
+![files](https://github.com/user-attachments/assets/c7ec8de9-e2ec-4e2a-af3a-1527f48b83cb)
+
 Extract the contents of gbagi-bin-2.××.zip (or the most recent release) to its own folder, then
 Extract or copy the AGI games you want to port to GBA to their own subfolders within the folder.
 
@@ -113,6 +119,10 @@ In the GBAGI folder, start "gbinject.exe"
 
 **4) Adding Games**
 
+![Adding Games](https://github.com/user-attachments/assets/1fa8b98d-c944-4f03-8f2e-2c4df364e8c5)
+
+![Selecting Games](https://github.com/user-attachments/assets/e3453376-824f-4e46-af4e-0fc29b2d5a26)
+
 Select [Add Game] (D) and navigate to the root folder of the AGI game you want to add
 
 > [!CAUTION]
@@ -122,6 +132,8 @@ pressing **[Browse...]** let's you easily select another location and filename t
 (Default name and location is "agigames.gba" located in the same folder as gbinject.exe)
  
 **5) Settings and Names**
+
+![4 game settings](https://github.com/user-attachments/assets/ff4690c5-02f0-4cec-8be8-8e9433eb5d0d)
 
 GBAGI should detect the settings automatically so you should not have to touch anything here, just press **OK**
 
@@ -146,6 +158,8 @@ GBAGI should detect the settings automatically so you should not have to touch a
  
 **6) Injecting the AGI game(s) into GBA roms**
 
+![Injecting Games](https://github.com/user-attachments/assets/2fa3c65d-7b26-41ed-a749-e21e0faee8df)
+
 The game chosen in step 4 should now show up in the **Games To Inject** field of gbinject.
 
 > [!IMPORTANT]
@@ -158,7 +172,11 @@ Press **[Build ROM]**
  
 **7) Conglaturatons, your winer!**
 
+![Success](https://github.com/user-attachments/assets/74e0986c-1d4e-4d84-8ae9-3f505e0dcb33)
+
 You now have one or more GBA ROMfile(s) with AGI game(s) ready to be played on emulators, fpga and/or real hardware using a flashcart etc.
+
+![GBA rom](https://github.com/user-attachments/assets/1b3c7eaf-6bb3-47be-944b-cfacb4759f6c)
 
 ### Where?
 
