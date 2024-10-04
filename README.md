@@ -9,7 +9,7 @@
 
 ● [Where](https://github.com/lunchpacked130/KQ6AGI_GBAGI/edit/main/README.md#where) can i find downloads and links?
 
-● [Huh](https://github.com/lunchpacked130/KQ6AGI_GBAGI/edit/main/README.md#huh) Helpful Useful Hints if I get stuck (with no spoilers unless i choose to reveal them)
+● [HUH](https://github.com/lunchpacked130/KQ6AGI_GBAGI/edit/main/README.md#huh) Helpful Useful Hints if I get stuck (with no spoilers unless i choose to reveal them)
 
 ● [Disclaimers](https://github.com/lunchpacked130/KQ6AGI_GBAGI/edit/main/README.md#disclaimers)
 
@@ -23,9 +23,9 @@ I decided to share the rom here in case anyone else would like to try it out and
 >  
 > ● GBA Software Emulators
 > 
-> ● Fpga GBA Hardwarw cores
+> ● Fpga GBA Hardware cores
 > 
-> ● Real GBA hardware. (requires flashcart)
+> ● Real GBA Hardware. (Requires flashcart)
 
 > [!NOTE]
 > GBAGI is **ONLY** available for Windows
